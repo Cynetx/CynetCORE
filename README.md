@@ -16,7 +16,7 @@
 [![X](https://img.shields.io/badge/X-Follow_Us-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/cynetxir)
 
 # ⚡ CynetCore ⚡
-### *The Ultimate Core Plugin for Paper Servers*
+### *The Ultimate Core Plugin for Spigot & Paper Servers*
 **Fast • Secure • Stylish • Configurable**
 
 [ **🇬🇧 English** ](#-en--welcome-to-the-core) | [ **🇮🇷 Persian** ](#-fa--هسته-رسمی-تیم-cynet)
@@ -27,7 +27,7 @@
 
 ## 🎮 EN — Welcome to the Core
 
-> **CynetCore** is the stealthy, all-in-one core plugin designed by **Cynet Team**. It brings a complete ecosystem to your Paper server with a focus on PvE/PvP experience, economy, and modern UI.
+> **CynetCore** is the stealthy, all-in-one core plugin designed by **Cynet Team**. It brings a complete ecosystem to your Spigot/Paper server with a focus on PvE/PvP experience, economy, and modern UI.
 
 ### 🚀 Why CynetCore?
 - 🛒 **Full Server Shop:** Built-in economy (`Ccoin`) with Buy/Sell GUI.
@@ -76,9 +76,11 @@
 
 ---
 
+<div dir="rtl" align="right">
+
 ## 🇮🇷 FA — هسته رسمی تیم Cynet
 
-> **CynetCore** یک پلاگین هسته قدرتمند، سبک و مدرن برای سرورهای **Paper** است که توسط تیم **Cynet** توسعه داده شده. تمام نیازهای اصلی سرور شما در یک پکیج حرفه‌ای!
+> **CynetCore** یک پلاگین هسته قدرتمند، سبک و مدرن برای سرورهای **Spigot** و **Paper** است که توسط تیم **Cynet** توسعه داده شده. تمام نیازهای اصلی سرور شما در یک پکیج حرفه‌ای!
 
 ### 🚀 چرا CynetCore؟
 - 🛒 **فروشگاه کامل:** سیستم خرید و فروش آیتم با ارز اختصاصی `Ccoin`.
@@ -123,6 +125,8 @@
 *   **منوی گیم‌مود:** (قابل غیرفعال‌سازی) برای انتخاب مود بازی.
 *   **تلپورت امن:** جلوگیری از مرگ در وید یا بلاک هنگام ورود.
 *   **Keep Inventory:** قابلیت نگه‌داشتن آیتم‌ها پس از مرگ (تنظیمی).
+
+</div>
 
 ---
 

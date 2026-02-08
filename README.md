@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,100:0D1117&height=250&section=header&text=CYNET%20CORE&fontColor=36BCF7&fontSize=70&animation=fadeIn&fontAlignY=38&desc=The%20Ultimate%20Core%20Plugin%20for%20Spigot%20%26%20Paper&descAlign=50&descSize=20&descAlignY=60" width="100%" />
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Advanced+Server+Shop+%26+Economy;Daily+Missions+%26+Streak+Rewards;Secure+Login+%26+Spawn+Protection;Modern+Tab,+Sidebar+%26+Visuals;Fully+Configurable+%26+Optimized" />
 
 <br>

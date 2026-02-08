@@ -1,185 +1,140 @@
-# CynetCore
+```text
+   ______                 __  ______               
+  / ____/_  ______  ___  / /_/ ____/___  ________  
+ / /   / / / / __ \/ _ \/ __/ /   / __ \/ ___/ _ \ 
+/ /___/ /_/ / / / /  __/ /_/ /___/ /_/ / /  /  __/ 
+\____/\__, /_/ /_/\___/\__/\____/\____/_/   \___/  
+     /____/                                        
+```
 
-[![Website](https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=google-chrome)](https://cynetx.ir)
-[![Telegram](https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram)](https://t.me/cynetx)
-[![X](https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x)](https://x.com/cynetxir)
-[![YouTube](https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube)](https://www.youtube.com/@cynetxir)
-[![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord)](https://discord.gg/JTpfchCFDV)
+<div align="center">
 
-### EN — Welcome to the Core
-CynetCore is the stealthy core plugin of Cynet Team for Paper servers: fast, configurable, and built for a clean PvE/PvP experience with a stylish UI.
+[![Website](https://img.shields.io/badge/Website-Cynetx.ir-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cynetx.ir)
+[![Telegram](https://img.shields.io/badge/Telegram-Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cynetx)
+[![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JTpfchCFDV)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@cynetxir)
+[![X](https://img.shields.io/badge/X-Follow_Us-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/cynetxir)
 
-#### Why CynetCore
-- Full server shop with Ccoin economy (buy/sell everything)
-- Playtime rewards and daily missions with streaks
-- ActionBar/Title welcome + sound, plus automated broadcast messages
-- Advanced tablist, dynamic sidebar, and a bottom-left logo
-- Safe login flow, secure teleports, join protection
-- Everything configurable in config.yml
+# ⚡ CynetCore ⚡
+### *The Ultimate Core Plugin for Paper Servers*
+**Fast • Secure • Stylish • Configurable**
 
-#### Compatibility
-- Paper 1.21+
-- Java 17+
-- Plugin name: CynetCore
+[ **🇬🇧 English** ](#-en--welcome-to-the-core) | [ **🇮🇷 Persian** ](#-fa--هسته-رسمی-تیم-cynet)
 
-#### Installation
-1. Drop the JAR into the plugins folder.
-2. Start the server to generate config.yml.
-3. Customize config.yml and restart the server.
-
-#### Commands
-- /sp → Open server shop
-- /daily → View daily missions and progress
-- /discord → Copy Discord invite link
-- /ts → Copy TeamSpeak IP
-
-#### Features
-##### Server Shop
-- Smart categories or manual lists
-- Price multipliers + per-item overrides
-- Fast buy/sell via clicks
-- Currency: Ccoin
-
-##### Playtime Rewards
-- Rewards every X seconds of play
-- Custom reward message
-
-##### Daily Missions
-- Multiple mission types (playtime, blocks, mobs, buy/sell)
-- Configurable mission count per day
-- Daily streak tracking and messages
-- /daily shows exact progress
-
-##### Visual Systems
-- Sidebar with player/server stats
-- Tablist with online, TPS, RAM
-- Bottom-left logo line
-
-##### Login & Safety
-- Gamemode menu (can be disabled)
-- Safe teleport with invulnerability
-- Keep-inventory option on death
-- Welcome ActionBar/Title with sound
-
-##### Auto Broadcasts
-- Beautiful colored messages on timer
-- Can announce rewards and missions
-
-#### Key Config Sections
-- shop: shop settings, categories, pricing
-- playtime: playtime rewards
-- daily: daily missions and streaks
-- broadcast: auto chat messages
-- tab: tablist header/footer and name format
-- logo: bottom-left logo line
-- welcome: welcome message and sound
-- gamemode/menu: gamemode menu settings
-- teleport/death: safety and keep-inventory
-
-#### Data
-Player data (balances, playtime, missions, streaks) is stored in data.yml with autosave.
-
-#### Links
-- Website: https://cynetx.ir
-- News: https://news.cynetx.ir
-- Discord: https://discord.gg/JTpfchCFDV
-- Telegram: https://t.me/cynetx
-- X: https://x.com/cynetxir
-- YouTube: https://www.youtube.com/@cynetxir
-
-#### Support
-Report bugs or suggestions on Telegram or Discord.
-
-#### Developer
-- GitHub: https://github.com/Cynetx
-- Developer: Sabine
+</div>
 
 ---
 
-### FA — هسته رسمی تیم Cynet
-CynetCore هسته‌ی قدرتمند و قابل تنظیم تیم Cynet برای سرورهای Paper است؛ سریع، امن و با ظاهر گیمینگ و حرفه‌ای.
+## 🎮 EN — Welcome to the Core
 
-#### چرا CynetCore؟
-- فروشگاه کامل با ارز Ccoin و خرید/فروش همه آیتم‌ها
-- پاداش تایم بازی و ماموریت‌های روزانه با استریک
-- خوش‌آمدگویی ActionBar/Title با صدا و پیام‌های خودکار
-- Tab حرفه‌ای، سایدبار پویا و لوگوی پایین چپ
-- ورود امن، تلپورت مطمئن و حفاظت اولیه از پلیر
-- همه چیز قابل تنظیم در config.yml
+> **CynetCore** is the stealthy, all-in-one core plugin designed by **Cynet Team**. It brings a complete ecosystem to your Paper server with a focus on PvE/PvP experience, economy, and modern UI.
 
-#### نسخه و سازگاری
-- Paper 1.21+
-- Java 17+
-- نام پلاگین: CynetCore
+### 🚀 Why CynetCore?
+- 🛒 **Full Server Shop:** Built-in economy (`Ccoin`) with Buy/Sell GUI.
+- 🎁 **Rewards System:** Auto playtime rewards & daily missions with streaks.
+- 📢 **Smart Broadcasts:** Beautiful auto-messages & mission announcements.
+- 📊 **Visual Suite:** Advanced Tablist, Sidebar, and ActionBars.
+- 🛡️ **Core Security:** Safe login, spawn protection, and anti-void.
+- ⚙️ **100% Configurable:** Control every aspect via `config.yml`.
 
-#### نصب
-1. فایل JAR را داخل پوشه plugins بگذارید.
-2. سرور را اجرا کنید تا config.yml ساخته شود.
-3. تنظیمات را شخصی‌سازی و سرور را ری‌استارت کنید.
+### 📦 Installation
+1.  **Download** the `CynetCore.jar`.
+2.  **Drop** it into your server's `plugins` folder.
+3.  **Start** the server to generate `config.yml`.
+4.  **Enjoy!** (Edit config to customize).
 
-#### دستورات
-- /sp → باز کردن فروشگاه سرور
-- /daily → نمایش ماموریت‌های روزانه و پیشرفت
-- /discord → کپی لینک دیسکورد
-- /ts → کپی آی‌پی TeamSpeak
+### 💻 Commands
+| Command | Description |
+| :--- | :--- |
+| `/sp` | 🛒 Open the Server Shop GUI |
+| `/daily` | 📅 View Daily Missions & Streak Progress |
+| `/discord` | 💬 Copy Discord Invite Link |
+| `/ts` | 🎧 Copy TeamSpeak IP |
 
-#### قابلیت‌ها
-##### فروشگاه سرور
-- دسته‌بندی هوشمند یا دستی
-- قیمت‌گذاری با multiplier و قیمت اختصاصی
-- خرید/فروش سریع با کلیک‌ها
-- ارز: Ccoin
+### ✨ Features Breakdown
 
-##### پاداش تایم بازی
-- پاداش هر X ثانیه بازی
-- پیام پاداش قابل شخصی‌سازی
+#### 🛒 Server Shop & Economy
+*   **Smart Categories:** Auto-sorts blocks, tools, combat, etc.
+*   **Dynamic Pricing:** Set multipliers or override specific item prices.
+*   **User Friendly:** Left/Right/Shift clicks for bulk actions.
 
-##### ماموریت‌های روزانه
-- ماموریت‌های متنوع (بازی، بلاک، موب، خرید/فروش)
-- تعداد ماموریت روزانه قابل تنظیم
-- استریک روزانه با پیام کامل
-- /daily برای نمایش پیشرفت دقیق
+#### 🎯 Daily Missions & Playtime
+*   **Missions:** `Block Break`, `Kill Mobs`, `Playtime`, `Trade`.
+*   **Streaks:** Keep playing daily to build your streak!
+*   **Passive Income:** Earn `Ccoin` just by playing on the server.
 
-##### سیستم‌های نمایشی
-- سایدبار با اطلاعات پلیر و سرور
-- Tab با آنلاین، TPS و RAM
-- لوگوی پایین چپ
+#### 🎨 Visuals & Immersion
+*   **Tablist:** Live stats (Online, TPS, Ping, RAM).
+*   **Sidebar:** Dynamic scoreboard with hex colors.
+*   **Welcome:** Custom Title/ActionBar + Sound on join.
+*   **Branding:** Custom "Logo" message in chat.
 
-##### ورود و امنیت
-- منوی گیم‌مود قابل غیرفعال‌سازی
-- تلپورت امن با زمان حفاظت
-- گزینه نگه‌داشت آیتم بعد از مرگ
-- خوش‌آمد ActionBar/Title با صدا
+#### 🔐 Security & Management
+*   **Gamemode Menu:** Optional GUI for mode selection (can be disabled).
+*   **Spawn Safety:** Anti-void teleport & invulnerability frames.
+*   **Keep Inventory:** Option to save items on death.
 
-##### پیام‌های خودکار چت
-- پیام‌های رنگی زیبا با فاصله زمانی
-- امکان اطلاع‌رسانی پاداش‌ها و ماموریت‌ها
+---
 
-#### بخش‌های مهم config.yml
-- shop: فروشگاه، دسته‌ها و قیمت‌ها
-- playtime: پاداش تایم بازی
-- daily: ماموریت‌های روزانه و استریک
-- broadcast: پیام‌های خودکار
-- tab: هدر/فوتر Tab و فرمت نام
-- logo: لوگوی پایین چپ
-- welcome: پیام و صدای خوش‌آمد
-- gamemode/menu: تنظیمات منوی گیم‌مود
-- teleport/death: امنیت تلپورت و حفظ آیتم‌ها
+## 🇮🇷 FA — هسته رسمی تیم Cynet
 
-#### داده‌ها
-اطلاعات پلیرها (بالانس، تایم بازی، ماموریت‌ها، استریک) در data.yml ذخیره می‌شود و با autosave مدیریت می‌شود.
+> **CynetCore** یک پلاگین هسته قدرتمند، سبک و مدرن برای سرورهای **Paper** است که توسط تیم **Cynet** توسعه داده شده. تمام نیازهای اصلی سرور شما در یک پکیج حرفه‌ای!
 
-#### لینک‌ها
-- Website: https://cynetx.ir
-- News: https://news.cynetx.ir
-- Discord: https://discord.gg/JTpfchCFDV
-- Telegram: https://t.me/cynetx
-- X: https://x.com/cynetxir
-- YouTube: https://www.youtube.com/@cynetxir
+### 🚀 چرا CynetCore؟
+- 🛒 **فروشگاه کامل:** سیستم خرید و فروش آیتم با ارز اختصاصی `Ccoin`.
+- 🎁 **سیستم پاداش:** جایزه تایم پلی + ماموریت‌های روزانه (Daily Quests).
+- 📢 **پیام‌رسان هوشمند:** برادکست‌های رنگی و اعلان‌های ماموریت.
+- 📊 **رابط کاربری:** تب‌لیست، اسکوربورد و اکشن‌بار حرفه‌ای.
+- 🛡️ **امنیت:** مدیریت اسپان، ورود امن و جلوگیری از باگ‌های تلپورت.
+- ⚙️ **تنظیمات کامل:** صفر تا صد پلاگین در `config.yml` قابل تغییر است.
 
-#### پشتیبانی
-برای گزارش باگ یا پیشنهادات، از Telegram یا Discord استفاده کنید.
+### 📦 نصب و راه‌اندازی
+1.  فایل `jar` را در پوشه `plugins` قرار دهید.
+2.  سرور را **Run** کنید تا فایل‌های کانفیگ ساخته شوند.
+3.  از فایل `config.yml` همه چیز را شخصی‌سازی کنید.
 
-#### توسعه‌دهنده
-- GitHub: https://github.com/Cynetx
-- Developer: Sabine
+### 💻 دستورات (Commands)
+| دستور | توضیحات |
+| :--- | :--- |
+| `/sp` | 🛒 باز کردن منوی فروشگاه سرور |
+| `/daily` | 📅 مشاهده ماموریت‌های روزانه و استریک |
+| `/discord` | 💬 دریافت لینک دیسکورد (کپی) |
+| `/ts` | 🎧 دریافت آی‌پی تیم‌اسپیک (کپی) |
+
+### ✨ ویژگی‌های کلیدی
+
+#### 🛒 فروشگاه و اقتصاد (Economy)
+*   **دسته‌بندی هوشمند:** تشخیص خودکار بلاک‌ها، ابزارها و...
+*   **قیمت‌گذاری:** تعیین ضریب خرید/فروش یا قیمت دستی برای هر آیتم.
+*   **رابط کاربری:** خرید و فروش آسان با کلیک‌های مختلف.
+
+#### 🎯 ماموریت‌ها و استریک
+*   **تنوع ماموریت:** شامل بازی کردن، کندن بلاک، کشتن ماب و معامله.
+*   **استریک (Streak):** پاداش ویژه برای ورود متوالی روزانه.
+*   **پاداش آنلاین:** دریافت `Ccoin` به ازای هر ساعت بازی.
+
+#### 🎨 ظاهر و گرافیک
+*   **Tablist:** نمایش آنلاین‌ها، پینگ، TPS و رم سرور.
+*   **Scoreboard:** سایدبار داینامیک و زیبا.
+*   **Welcome:** خوش‌آمدگویی با صدا و تایتل جذاب.
+*   **Logo:** نمایش لوگوی سرور در چت.
+
+#### 🔐 امنیت و مدیریت
+*   **منوی گیم‌مود:** (قابل غیرفعال‌سازی) برای انتخاب مود بازی.
+*   **تلپورت امن:** جلوگیری از مرگ در وید یا بلاک هنگام ورود.
+*   **Keep Inventory:** قابلیت نگه‌داشتن آیتم‌ها پس از مرگ (تنظیمی).
+
+---
+
+<div align="center">
+
+### 🛠️ Developer & Support
+
+**Developed with ❤️ by [Sabine](https://github.com/Cynetx)**
+
+📢 **Bugs & Suggestions:**
+[Telegram](https://t.me/cynetx) | [Discord](https://discord.gg/JTpfchCFDV)
+
+*Copyright © 2026 Cynet Team. All rights reserved.*
+
+</div>

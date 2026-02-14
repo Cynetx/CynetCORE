@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./logo.jpeg" width="420" alt="CynetCore Logo" />
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F14,100:0D1117&height=120&section=header&text=CYNET%20OPS&fontColor=36BCF7&fontSize=38&animation=fadeIn&desc=Build%20Real.%20Break%20Smart.&descAlign=50&descSize=14&descAlignY=72" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Cyber+Security+Mindset;AI+Driven+Defense+%26+Attack;Founder+of+Cynet;Security+is+a+Way+of+Thinking" />

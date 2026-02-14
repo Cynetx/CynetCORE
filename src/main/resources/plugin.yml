@@ -1,0 +1,19 @@
+name: CynetCore
+main: team.cynet.cynetcore.CynetCorePlugin
+version: 1.0.0
+api-version: "1.21"
+author: Sabine
+description: Cynet Team core plugin for Paper servers
+commands:
+  sp:
+    description: Open server shop
+    usage: "/sp"
+  discord:
+    description: Copy Discord invite link
+    usage: "/discord"
+  ts:
+    description: Copy TeamSpeak address
+    usage: "/ts"
+  daily:
+    description: Show daily mission progress
+    usage: "/daily"

@@ -1,0 +1,472 @@
+title: "&b&l✦ CYNETX.IR ✦"
+server-name: "CYNET"
+server-ip: "mc.cynetx.ir:31122"
+developer-name: "Sabine"
+links:
+  discord: "https://discord.gg/JTpfchCFDV"
+  teamspeak: "5.42.217.200:12861"
+update-interval-ticks: 40
+lines:
+  - "%bar%"
+  - "%spacer%"
+  - "&b&l  PROFILE"
+  - "%spacer%"
+  - "&fName: &b%player%"
+  - "&fMoney: &a%balance% %currency%"
+  - "%spacer%"
+  - "&fServer: &a%server%"
+  - "%spacer%"
+  - "&fIP: &e%ip%"
+  - "%spacer%"
+  - "&fDeveloper: &d%developer%"
+  - "%spacer%"
+  - "%bar%"
+logo:
+  enabled: true
+  lines:
+    - "&8└ &b❖ &aCynet &7Official Team"
+tab:
+  owner-permission: "cynetcore.owner"
+  name-format-default: "&7• &f%player%"
+  name-format-owner: "&d★ &f%player%"
+  header:
+    - "&8╔════════════════════╗"
+    - "&b&l%server%"
+    - "&7IP: &f%ip% &8| &7Online: &a%online%&7/&a%max%"
+    - "&7Ping: &f%ping%ms &8| &7TPS: &a%tps%"
+    - "&8╚════════════════════╝"
+  footer:
+    - "&8╔════════════════════╗"
+    - "&7RAM: &f%ram_used%MB&7/&f%ram_max%MB"
+    - "&dDeveloped by &f%developer%"
+    - "&8╚════════════════════╝"
+shop:
+  enabled: true
+  title: "&aServer Shop"
+  currency: "Ccoin"
+  start-balance: 0
+  buy-multiplier: 2.0
+  sell-multiplier: 1.0
+  items-per-page: 45
+  categories-auto: true
+  price-overrides:
+    DIRT: 1
+    GRASS_BLOCK: 2
+    COARSE_DIRT: 2
+    STONE: 3
+    COBBLESTONE: 2
+    ANDESITE: 3
+    DIORITE: 3
+    GRANITE: 3
+    SAND: 2
+    RED_SAND: 3
+    GRAVEL: 2
+    CLAY: 4
+    GLASS: 4
+    GLASS_PANE: 2
+    OAK_PLANKS: 4
+    SPRUCE_PLANKS: 4
+    BIRCH_PLANKS: 4
+    JUNGLE_PLANKS: 4
+    ACACIA_PLANKS: 4
+    DARK_OAK_PLANKS: 4
+    MANGROVE_PLANKS: 4
+    CHERRY_PLANKS: 4
+    BAMBOO_PLANKS: 4
+    BRICKS: 6
+    STONE_BRICKS: 5
+    DEEPSLATE: 4
+    COBBLED_DEEPSLATE: 4
+    BLACKSTONE: 5
+    NETHERRACK: 2
+    NETHER_BRICKS: 6
+    END_STONE: 5
+    QUARTZ_BLOCK: 12
+    OBSIDIAN: 25
+    TORCH: 2
+    LANTERN: 6
+    CHEST: 10
+    BARREL: 10
+    CRAFTING_TABLE: 4
+    FURNACE: 8
+    BLAST_FURNACE: 18
+    SMOKER: 12
+    ANVIL: 40
+    ENCHANTING_TABLE: 80
+    BOOKSHELF: 12
+    COAL: 12
+    CHARCOAL: 10
+    IRON_INGOT: 40
+    GOLD_INGOT: 60
+    COPPER_INGOT: 25
+    DIAMOND: 150
+    EMERALD: 140
+    REDSTONE: 18
+    LAPIS_LAZULI: 16
+    QUARTZ: 20
+    NETHERITE_INGOT: 1200
+    WHEAT: 4
+    CARROT: 4
+    POTATO: 4
+    BEETROOT: 4
+    SUGAR_CANE: 5
+    BAMBOO: 5
+    KELP: 3
+    CACTUS: 6
+    WHEAT_SEEDS: 2
+    BEETROOT_SEEDS: 2
+    MELON_SEEDS: 2
+    PUMPKIN_SEEDS: 2
+    BREAD: 8
+    APPLE: 6
+    GOLDEN_APPLE: 120
+    BAKED_POTATO: 8
+    COOKED_BEEF: 14
+    COOKED_CHICKEN: 12
+    COOKED_PORKCHOP: 14
+    COOKED_MUTTON: 12
+    COOKED_RABBIT: 12
+    COOKED_COD: 10
+    COOKED_SALMON: 10
+    MELON_SLICE: 3
+    PUMPKIN_PIE: 16
+    ARROW: 2
+    SHIELD: 40
+    BOW: 35
+    CROSSBOW: 45
+    IRON_SWORD: 45
+    DIAMOND_SWORD: 180
+    NETHERITE_SWORD: 900
+    IRON_PICKAXE: 60
+    DIAMOND_PICKAXE: 220
+    NETHERITE_PICKAXE: 1100
+    POPPY: 5
+    DANDELION: 5
+  categories:
+    blocks:
+      name: "Blocks"
+      icon: "GRASS_BLOCK"
+      items:
+        - STONE
+        - COBBLESTONE
+        - ANDESITE
+        - DIORITE
+        - GRANITE
+        - DIRT
+        - GRASS_BLOCK
+        - COARSE_DIRT
+        - SAND
+        - RED_SAND
+        - GRAVEL
+        - CLAY
+        - GLASS
+        - GLASS_PANE
+        - OAK_PLANKS
+        - SPRUCE_PLANKS
+        - BIRCH_PLANKS
+        - JUNGLE_PLANKS
+        - ACACIA_PLANKS
+        - DARK_OAK_PLANKS
+        - MANGROVE_PLANKS
+        - CHERRY_PLANKS
+        - BAMBOO_PLANKS
+        - BRICKS
+        - STONE_BRICKS
+        - DEEPSLATE
+        - COBBLED_DEEPSLATE
+        - BLACKSTONE
+        - NETHERRACK
+        - NETHER_BRICKS
+        - END_STONE
+        - QUARTZ_BLOCK
+        - OBSIDIAN
+    ores:
+      name: "Ores & Ingots"
+      icon: "IRON_INGOT"
+      items:
+        - COAL
+        - CHARCOAL
+        - IRON_INGOT
+        - GOLD_INGOT
+        - COPPER_INGOT
+        - DIAMOND
+        - EMERALD
+        - REDSTONE
+        - LAPIS_LAZULI
+        - QUARTZ
+        - NETHERITE_INGOT
+    farming:
+      name: "Farming"
+      icon: "WHEAT"
+      items:
+        - WHEAT
+        - WHEAT_SEEDS
+        - CARROT
+        - POTATO
+        - BEETROOT
+        - BEETROOT_SEEDS
+        - MELON_SEEDS
+        - PUMPKIN_SEEDS
+        - SUGAR_CANE
+        - BAMBOO
+        - KELP
+        - CACTUS
+        - MELON_SLICE
+        - PUMPKIN
+    food:
+      name: "Food"
+      icon: "BREAD"
+      items:
+        - BREAD
+        - APPLE
+        - GOLDEN_APPLE
+        - BAKED_POTATO
+        - COOKED_BEEF
+        - COOKED_CHICKEN
+        - COOKED_PORKCHOP
+        - COOKED_MUTTON
+        - COOKED_RABBIT
+        - COOKED_COD
+        - COOKED_SALMON
+        - PUMPKIN_PIE
+    tools:
+      name: "Tools"
+      icon: "IRON_PICKAXE"
+      items:
+        - WOODEN_PICKAXE
+        - STONE_PICKAXE
+        - IRON_PICKAXE
+        - DIAMOND_PICKAXE
+        - NETHERITE_PICKAXE
+        - WOODEN_AXE
+        - STONE_AXE
+        - IRON_AXE
+        - DIAMOND_AXE
+        - NETHERITE_AXE
+        - WOODEN_SHOVEL
+        - STONE_SHOVEL
+        - IRON_SHOVEL
+        - DIAMOND_SHOVEL
+        - NETHERITE_SHOVEL
+        - WOODEN_HOE
+        - STONE_HOE
+        - IRON_HOE
+        - DIAMOND_HOE
+        - NETHERITE_HOE
+        - SHEARS
+        - FISHING_ROD
+        - FLINT_AND_STEEL
+    combat:
+      name: "Combat"
+      icon: "DIAMOND_SWORD"
+      items:
+        - WOODEN_SWORD
+        - STONE_SWORD
+        - IRON_SWORD
+        - DIAMOND_SWORD
+        - NETHERITE_SWORD
+        - BOW
+        - CROSSBOW
+        - ARROW
+        - SHIELD
+        - TRIDENT
+        - LEATHER_HELMET
+        - LEATHER_CHESTPLATE
+        - LEATHER_LEGGINGS
+        - LEATHER_BOOTS
+        - IRON_HELMET
+        - IRON_CHESTPLATE
+        - IRON_LEGGINGS
+        - IRON_BOOTS
+        - DIAMOND_HELMET
+        - DIAMOND_CHESTPLATE
+        - DIAMOND_LEGGINGS
+        - DIAMOND_BOOTS
+        - NETHERITE_HELMET
+        - NETHERITE_CHESTPLATE
+        - NETHERITE_LEGGINGS
+        - NETHERITE_BOOTS
+    redstone:
+      name: "Redstone"
+      icon: "REDSTONE"
+      items:
+        - REDSTONE
+        - REDSTONE_TORCH
+        - REPEATER
+        - COMPARATOR
+        - PISTON
+        - STICKY_PISTON
+        - OBSERVER
+        - DISPENSER
+        - DROPPER
+        - HOPPER
+        - LEVER
+        - STONE_BUTTON
+        - OAK_BUTTON
+        - STONE_PRESSURE_PLATE
+        - OAK_PRESSURE_PLATE
+        - NOTE_BLOCK
+        - TARGET
+    utility:
+      name: "Utility"
+      icon: "CHEST"
+      items:
+        - TORCH
+        - LANTERN
+        - CHEST
+        - BARREL
+        - CRAFTING_TABLE
+        - FURNACE
+        - BLAST_FURNACE
+        - SMOKER
+        - ANVIL
+        - ENCHANTING_TABLE
+        - BOOKSHELF
+        - ENDER_CHEST
+        - BUCKET
+        - WATER_BUCKET
+        - LAVA_BUCKET
+    decor:
+      name: "Decor"
+      icon: "PAINTING"
+      items:
+        - PAINTING
+        - ITEM_FRAME
+        - GLOW_ITEM_FRAME
+        - ARMOR_STAND
+        - FLOWER_POT
+        - CARPET
+        - WHITE_CARPET
+        - BLACK_CARPET
+        - LANTERN
+        - CANDLE
+        - WHITE_CANDLE
+broadcast:
+  enabled: true
+  interval-ticks: 400
+  messages:
+    - "&d✦ &bKhosh Omadi be &eCynet MC &d✦ &a:D"
+    - "&a⏱ Har 1 saat bazi &eCcoin &aMigiri!"
+    - "&b🎯 /daily &7Quest ro baz kon va Jaeze Begir!"
+    - "&b📘 /daily: &7Mission ro bebin, Progress ro check kon, Jaeze begir!"
+    - "&a🛒 /sp: &7Shop ro baz kon, item haro &aBuy/Sell &7kon!"
+    - "&9🔗 /discord: &7Click to Copy invite link"
+    - "&a🎧 /ts: &7Click to Copy TeamSpeak IP"
+    - "&a🛒 &eShop Server: &f/sp &7| &aBuy/Sell"
+    - "&b📢 &fTelegram: &b@cynetx"
+    - "&e🌐 &fWebSite: &aCynetx.ir"
+    - "&6🛍 &fShop: &eShop.Cynetx.ir"
+    - "&9💬 &fDiscord: &b/discord"
+    - "&d👑 &fDeveloper: &dSabine"
+    - "&c🐞 &fGozareshe bug: &cTelegram &7ya &9Discord"
+playtime:
+  enabled: true
+  tracking-interval-ticks: 1200
+  reward-interval-seconds: 3600
+  reward-amount: 30
+  reward-message: "&aPlaytime Reward: &e+%amount% %currency% &7(Har %hours% saat)"
+daily:
+  enabled: true
+  missions-per-day-min: 2
+  missions-per-day-max: 4
+  playtime-target-minutes: 60
+  reward-amount: 60
+  complete-message: "&bDaily Mission Tamom Shod! &f%mission% &7| &a+%amount% %currency% &7| Streak: &d%streak%"
+  all-complete-message: "&aHame Daily Mission ha Tamom Shod! &7Streak: &d%streak%"
+  status:
+    completed: "&aAnjam Shode"
+    in-progress: "&eDar Hal Anjam"
+  command-header-lines:
+    - "&b&lDaily Missions"
+    - "&7Ba &e/daily &7Mission ha ro check kon!"
+  command-mission-line: "&7- &f%mission% &7(%progress%/%target%) &7| &e%reward% %currency%"
+  command-footer-lines:
+    - "&7Streak: &d%streak%"
+    - "&7Status: %status%"
+  missions:
+    - type: "PLAYTIME_MINUTES"
+      target: 60
+      reward: 60
+      display: "Play 60 min"
+    - type: "BREAK_BLOCKS"
+      target: 200
+      reward: 50
+      display: "Break 200 blocks"
+    - type: "KILL_MOBS"
+      target: 30
+      reward: 70
+      display: "Kill 30 mobs"
+    - type: "SELL_ITEMS"
+      target: 64
+      reward: 60
+      display: "Sell 64 items"
+    - type: "BUY_ITEMS"
+      target: 32
+      reward: 40
+      display: "Buy 32 items"
+data:
+  autosave-ticks: 6000
+worlds:
+  lobby: "world_lobby"
+  survival: "world_survival"
+  creative: "world_creative"
+  precreate-on-enable: true
+  precreate-delay-ticks: 40
+  lobby-teleport-interval-ticks: 20
+  lobby-teleport-max-attempts: 60
+gamemode:
+  enabled: false
+teleport:
+  invulnerable-ticks: 40
+  join-protection-ticks: 80
+death:
+  keep-inventory: true
+  restore-delay-ticks: 1
+welcome:
+  enabled: true
+  type: "ACTION_BAR"
+  message: "&aWelcome! &f/login &7to choose your mode"
+  subtitle: ""
+  sound: "ENTITY_PLAYER_LEVELUP"
+  volume: 1.0
+  pitch: 1.1
+  delay-ticks: 10
+login:
+  command: "/login"
+  open-delay-ticks: 20
+  check-interval-ticks: 10
+  max-attempts: 24
+menu:
+  title: "&b&lChoose Your Mode"
+  size: 27
+  survival:
+    slot: 11
+    name: "&aSurvival"
+    lore:
+      - "&7Click to play in Survival"
+  creative:
+    slot: 15
+    name: "&bCreative"
+    lore:
+      - "&7Click to play in Creative"
+  info:
+    slot: 22
+    material: "NETHER_STAR"
+    name: "&dSabine Developer"
+    lore:
+      - "&7Official creator"
+messages:
+  lobby-wait: "&ePreparing lobby world..."
+  choose-survival: "&aYou joined Survival."
+  choose-creative: "&aYou joined Creative."
+  world-creating: "&ePreparing world..."
+  only-players: "&cOnly players can use this command."
+  discord-copy: "&bDiscord Link &7(Click to Copy)"
+  teamspeak-copy: "&aTeamSpeak IP &7(Click to Copy)"
+  shop:
+    disabled: "&cShop is disabled."
+    not-enough: "&cNot enough %currency%."
+    inventory-full: "&cInventory full."
+    no-item: "&cYou don't have this item."
+    bought: "&aBought %amount% %item% for %price% %currency%."
+    sold: "&aSold %amount% %item% for %price% %currency%."

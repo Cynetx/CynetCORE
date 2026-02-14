@@ -15,6 +15,8 @@
 [![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JTpfchCFDV)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@cynetxir)
 [![X](https://img.shields.io/badge/X-Follow_Us-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/cynetxir)
+[![Release](https://img.shields.io/github/v/release/Cynetx/CynetCore?style=for-the-badge&logo=github&label=Release)](https://github.com/Cynetx/CynetCore/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/Cynetx/CynetCore/total?style=for-the-badge&logo=github&label=Downloads)](https://github.com/Cynetx/CynetCore/releases)
 
 <br>
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./logo.jpeg" alt="CynetCore Logo" />
+<img src="./logo.jpeg" width="420" alt="CynetCore Logo" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F14,100:0D1117&height=120&section=header&text=CYNET%20OPS&fontColor=36BCF7&fontSize=38&animation=fadeIn&desc=Build%20Real.%20Break%20Smart.&descAlign=50&descSize=14&descAlignY=72" />
 
@@ -49,6 +49,10 @@
 | `/daily` | 📅 View Daily Missions & Streak Progress |
 | `/discord` | 💬 Copy Discord Invite Link |
 | `/ts` | 🎧 Copy TeamSpeak IP |
+
+### 🌍 Modrinth Page
+Want updates, releases, and the latest info?
+[👉 Visit CynetCore on Modrinth](https://modrinth.com/plugin/cynetcore)
 
 ### ✨ Features Breakdown
 
@@ -122,6 +126,10 @@
 | `/daily` | دیدن ماموریت‌ها و وضعیت استریک |
 | `/discord` | گرفتن لینک دیسکورد سرور |
 | `/ts` | گرفتن آی‌پی TeamSpeak سرور |
+
+### 🌍 صفحه Modrinth
+نسخه‌های جدید، توضیحات کامل و آپدیت‌ها اینجا هستن:
+[👉 CynetCore در Modrinth](https://modrinth.com/plugin/cynetcore)
 
 ---
 *CynetCore با عشق ساخته شده تا هم سرور قوی‌تر بشه، هم پلیرها لذت بیشتری ببرن. امیدواریم ازش حال کنی!* ❤️

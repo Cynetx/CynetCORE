@@ -37,7 +37,7 @@
 - ⚙️ **100% Configurable:** Control every single message, setting, and feature via `config.yml`.
 
 ### 📦 Installation
-1.  **Download** the `CynetCore.jar`.
+1.  **Download** the `CynetCore.jar` from [GitHub Releases](https://github.com/Cynetx/CynetCore/releases/latest).
 2.  **Drop** it into your server's `plugins` folder.
 3.  **Start** the server to generate the configuration files.
 4.  **Enjoy!** (Edit `config.yml` to customize messages and settings).
@@ -115,7 +115,7 @@ Want updates, releases, and the latest info?
 *   **Keep Inventory:** تنظیم می‌کنی آیتم‌ها بعد مرگ بمونه یا نه.
 
 ### 📦 نصب خیلی ساده
-1. فایل `CynetCore.jar` رو داخل پوشه `plugins` بذار.
+1. فایل `CynetCore.jar` رو از [GitHub Releases](https://github.com/Cynetx/CynetCore/releases/latest) بگیر و داخل پوشه `plugins` بذار.
 2. سرور رو روشن کن تا فایل‌های کانفیگ ساخته بشن.
 3. برو توی `config.yml` و هرچی دوست داری رو تغییر بده.
 

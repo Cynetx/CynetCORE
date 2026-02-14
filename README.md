@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F14,100:0D1117&height=120&section=header&text=CYNET%20OPS&fontColor=36BCF7&fontSize=38&animation=fadeIn&desc=Build%20Real.%20Break%20Smart.&descAlign=50&descSize=14&descAlignY=72" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Cyber+Security+Mindset;AI+Driven+Defense+%26+Attack;Founder+of+Cynet;Security+is+a+Way+of+Thinking" />
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Advanced+Server+Shop+%26+Economy;Daily+Missions+%26+Streak+Rewards;Secure+Login+%26+Spawn+Protection;Modern+Tab,+Sidebar+%26+Visuals;Fully+Configurable+%26+Optimized" />
 
 <br>
@@ -81,7 +85,7 @@
 
 ### ✨ قابلیت‌هایی که عاشقش می‌شوید
 
-#### � یک فروشگاه تمام‌عیار (Shop & Economy)
+#### 🛒 یک فروشگاه تمام‌عیار (Shop & Economy)
 دیگر نیازی به پلاگین‌های سنگین فروشگاهی ندارید! CynetCore یک شاپ حرفه‌ای دارد که:
 *   **هوشمند است:** خودش آیتم‌ها را تشخیص می‌دهد و در دسته‌بندی‌های درست (مثل بلاک‌ها، ابزارها، ردستون و...) قرار می‌دهد.
 *   **اقتصادی است:** از واحد پول اختصاصی `Ccoin` استفاده می‌کند.
@@ -112,7 +116,7 @@
 2.  سرور را روشن کنید (Run). تمام فایل‌های مورد نیاز و دیتابیس‌ها خودکار ساخته می‌شوند.
 3.  حالا به پوشه پلاگین بروید و فایل `config.yml` را باز کنید. **تک‌تک پیام‌ها، قیمت‌ها و تنظیمات** دست شماست. هر طور دوست دارید تغییرش دهید!
 
-### � لیست دستورات (Commands)
+### 💻 لیست دستورات (Commands)
 | دستور | کارایی |
 | :--- | :--- |
 | `/sp` | باز کردن منوی فروشگاه برای خرید و فروش |
